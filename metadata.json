@@ -1,0 +1,6 @@
+{
+  "name": "The Class — Live Vlogs & Real-Time Updates",
+  "description": "A premier creator network where creators drop authentic vlogs and live updates for followers to engage in real-time.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
